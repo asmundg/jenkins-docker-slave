@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Åsmund Grammeltvedt <asmundg@snap.tv>
+MAINTAINER Aasmund Grammeltvedt <asmundg@snap.tv>
 
 RUN apt-get update
 RUN apt-get install -y --no-install-recommends \
